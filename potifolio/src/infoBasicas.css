@@ -1,0 +1,19 @@
+.sobre{
+    background-color: rgba(0, 0, 0, 0.719);
+    border-radius: 10px;
+    height: 300px;
+}
+.sobre-dentro{
+    width: 400px;
+    background-color: rgb(206, 206, 212);
+    padding: 2%;
+    border-radius: 10px;
+}
+.perfil{
+    object-fit: contain;
+    height: 400px;
+    border-radius: 10px;
+}
+.apresentacao{
+    margin-top: 80px;
+}
