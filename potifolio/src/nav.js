@@ -14,7 +14,7 @@ function NavB(){
             <Navbar fixed ='top' className='navBar'>
                 <NavbarBrand >
                     <h2 style={{ opacity: 0.7}}>
-                        Developer
+                        Desenvolvedor full stack
                     </h2>
                  </NavbarBrand>
                 <Nav className='nav'>
