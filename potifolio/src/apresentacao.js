@@ -5,6 +5,8 @@ import reactImagem from './react.png';
 import cssImage from './css.png'
 import jsImage from './js.png'
 import MinhaFT from './perfil.jpeg'
+import javaImage from './java.png'
+
 
 
 
@@ -26,10 +28,11 @@ function Apresentacao(){
                         </h5>
                         
                            <Container className='images'>
-                                <img src={cppImagem}/>
-                                <img src={cssImage}/>
-                                <img src={jsImage}/>  
-                                <img src={reactImagem}/>
+                                <img src={cppImagem} className='icone'/>
+                                <img src={cssImage} className='icone'/>
+                                <img src={jsImage} className='icone'/>  
+                                <img src={reactImagem} className='icone'/>
+                                <img src={javaImage} className='icone'/>
                            </Container>
                             
                         
