@@ -5,7 +5,7 @@ import SobreMim from './sobreMim.js';
 
 function App() {
   return (
-    <div >
+    <div  >
       <NavB />
       <Apresentacao />
       <SobreMim/>

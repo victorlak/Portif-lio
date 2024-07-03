@@ -14,7 +14,7 @@ function Apresentacao(){
  
 
     return(
-        <Container stclassName='apresentacao '>
+        <Container className='apresentacao '>
             <Row>
                 <Col className='infoBasicas mt-4 ms-5 text-center font-weight-light' >
                     <Container className='ms-5'>
