@@ -1,4 +1,4 @@
-import './App.css';
+import './style/App.css';
 import { Container, Nav, NavItem, NavLink, NavbarBrand, Navbar } from 'reactstrap';
 import { FaInstagram,FaGithub} from "react-icons/fa6";
 import { BiLogoGmail } from "react-icons/bi";

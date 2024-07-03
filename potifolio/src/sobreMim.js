@@ -1,5 +1,5 @@
 import { Container, Row, Col } from 'reactstrap';
-import './infoBasicas.css';
+import './style/infoBasicas.css';
 
 
 
@@ -8,7 +8,7 @@ function SobreMim(){
 
     return(
         <Container fluid className="d-flex justify-content-center mt-5 sobre">
-            <div className="d-flex justify-content-center sobre-dentro mt-1">
+            <div  className="d-flex justify-content-center sobre-dentro mt-1">
                 <Col>
                     <Row>
                         <h1 className='display-5 d-flex justify-content-center'>Sobre mim</h1>

@@ -1,11 +1,11 @@
 import { Container, Row, Col } from 'reactstrap';
-import './infoBasicas.css';
-import cppImagem from './cpp.png';
-import reactImagem from './react.png';
-import cssImage from './css.png'
-import jsImage from './js.png'
-import MinhaFT from './perfil.jpeg'
-import javaImage from './java.png'
+import './style/infoBasicas.css';
+import cppImagem from './style/img/cpp.png';
+import reactImagem from './style/img/react.png';
+import cssImage from './style/img/css.png'
+import jsImage from './style/img/js.png'
+import MinhaFT from './style/img/perfil.jpeg'
+import javaImage from './style/img/java.png'
 
 
 
@@ -14,7 +14,7 @@ function Apresentacao(){
  
 
     return(
-        <Container className='apresentacao '>
+        <Container stclassName='apresentacao '>
             <Row>
                 <Col className='infoBasicas mt-4 ms-5 text-center font-weight-light' >
                     <Container className='ms-5'>
